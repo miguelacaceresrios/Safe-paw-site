@@ -1,10 +1,11 @@
 # Canine Care
-> Sistema integral de gestión para clínicas veterinarias especializadas en perros.
 
 Plataforma profesional diseñada para optimizar la operativa diaria de centros veterinarios. Interfaz clara, rendimiento excepcional y herramientas enfocadas en el bienestar animal y la eficiencia del equipo.
 
 ## Arquitectura
-El proyecto sigue una estructura modular con responsabilidades bien definidas. La interfaz de usuario se construye con componentes reutilizables, mientras que la lógica de negocio y el acceso a datos permanecen desacoplados.  
+El proyecto sigue una estructura modular con responsabilidades bien definidas. 
+La interfaz de usuario se construye con componentes reutilizables,
+mientras que la lógica de negocio y el acceso a datos permanecen desacoplados.  
 
 Se adopta un enfoque **static-first** con generación híbrida, lo que permite:
 - Carga inicial ultrarrápida y navegación fluida.
