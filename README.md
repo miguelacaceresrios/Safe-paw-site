@@ -1,4 +1,4 @@
-# Canine Care
+# Safe paw site
 
 Plataforma profesional diseñada para optimizar la operativa diaria de centros veterinarios. Interfaz clara, rendimiento excepcional y herramientas enfocadas en el bienestar animal y la eficiencia del equipo.
 
